@@ -1,7 +1,7 @@
 # Society for Epidemiologic Research (SER) Sequence Analysis Workshop
 #### By Lucia Pacca, Jilly Hebert, and Anusha Vable
 
-While no longer presenting the workshop with us, this work would not be possible without Catherine Duarte and Kristina Dang.
+While no longer presenting the workshop with us, this work would not be possible without Catherine Duarte and Kristina Dang. This is an extension of our didactic paper! [link](https://pubmed.ncbi.nlm.nih.gov/40219634/)
 
 Sequence analysis, originally developed in biology to analyze DNA strings, is a data-driven technique that has been adapted to the social sciences in the 1980s to compare and group life course trajectories accounting for the order, timing, and duration of events. In epidemiology, it has been used to operationalize social exposures such education, family or work trajectories across the life-course, or healthcare trajectories such as chronic diseases progression.
 
