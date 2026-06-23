@@ -11,7 +11,7 @@ Our proposed workshop has two aims: 1) introduce participants to sequence analys
 
 - `README.md`: This file with an explanation of the workshop.
 - `SqA 2026 Workshop.pptx.zip`: This is a zipped copy of the 2026 SER Workshop presentation.
-- `SqA Workshop Examples.pptx`: This is a zipped copy of the 2026 SER Workshop presentation.
+- `SqA Workshop Examples.pptx`: This is a copy of the 2026 SER Workshop sequence analysis workshop examples.
 - `EITC Workshop Code.R`: This is R code that walks through the basic steps of sequence analysis.
 
 Note that no datasets will be made available on this repository due to data usage restrictions. All data can be accessed through the National Surveys of Youth (NLSY) public files.
